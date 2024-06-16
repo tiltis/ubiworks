@@ -2,3 +2,7 @@
 	path = library/ubinos
 	url = https://github.com/ubinos/ubinos.git
 	branch = ubinos-main
+[submodule "library/mp_course_materials"]
+	path = library/mp_course_materials
+	url = https://github.com/ubinos-edu/mp_course_materials.git
+	branch = ubinos-main
